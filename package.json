@@ -1,0 +1,14 @@
+{
+  "name": "artur-ai-discord-bot",
+  "version": "1.0.0",
+  "description": "Bot do Discord que responde como IA quando alguém fala Artur.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.24.2",
+    "dotenv": "^17.2.2",
+    "openai": "^5.20.0"
+  }
+}
